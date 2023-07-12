@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/theblackmamba31/landscape-image-colorization
+https://www.kaggle.com/datasets/thedownhill/art-images-drawings-painting-sculpture-engraving
+https://www.kaggle.com/datasets/shravankumar9892/image-colorization
